@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/transaurus/typescript-eslint",
+  "branch": "main",
+  "docusaurusRoot": "packages/website",
+  "configFile": "packages/website/docusaurus.config.js",
+  "translateCommand": "../../node_modules/.bin/docusaurus write-translations --locale en",
+  "buildCommand": "../../node_modules/.bin/docusaurus build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}
